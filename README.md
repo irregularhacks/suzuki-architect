@@ -1,4 +1,4 @@
-# 鈴木塗装建築 HP 機能サンプル集
+# 鈴木建築塗装 HP 機能サンプル集
 
 GitHub Pagesで公開できる静的HTML一式です。`index.html` が目次です。
 
