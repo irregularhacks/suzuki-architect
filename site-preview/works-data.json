@@ -1,0 +1,43 @@
+[
+  {
+    "id": "roof",
+    "title": "屋根の塗り替え",
+    "category": "屋根",
+    "img": "roof-after",
+    "before": "roof-before",
+    "photos": [
+      "roof-before",
+      "roof-after",
+      "roof-detail"
+    ],
+    "summary": "屋根の色や表面の変化を、写真でご紹介します。",
+    "point": "屋根全体の仕上がりや、部分ごとの状態を写真で確認できます。"
+  },
+  {
+    "id": "wall",
+    "title": "外壁塗装・仕上がり",
+    "category": "外壁",
+    "img": "wall-main",
+    "photos": [
+      "wall-main",
+      "wall-detail",
+      "wall-wide"
+    ],
+    "summary": "外壁の仕上がりと、細かな部分の施工写真をご紹介します。",
+    "point": "光の当たり方による表面の見え方や、塗り分け部分にも注目してください。"
+  },
+  {
+    "id": "ceiling",
+    "title": "天井の補修・塗装",
+    "category": "補修",
+    "img": "ceiling-after",
+    "before": "ceiling-before",
+    "photos": [
+      "ceiling-before",
+      "ceiling-after",
+      "ceiling-detail"
+    ],
+    "summary": "室内の天井の状態を写真で比較できる事例です。",
+    "point": "天井の面全体と、照明まわりの仕上がりをご覧ください。"
+  }
+]
